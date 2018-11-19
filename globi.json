@@ -1,0 +1,19 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "tables": [
+    { "url": "https://parasites.nunn-lab.org/primates/download/",
+      "referenceDoi": "10.1002/ecy.1799",
+      "dcterms:bibliographicCitation": "Stephens, P. R., Pappalardo, P. , Huang, S. , Byers, J. E., Farrell, M. J., Gehman, A. , Ghai, R. R., Haas, S. E., Han, B. , Park, A. W., Schmidt, J. P., Altizer, S. , Ezenwa, V. O. and Nunn, C. L. (2017), Global Mammal Parasite Database version 2.0. Ecology, 98: 1476-1476. doi:10.1002/ecy.1799",
+      "tableSchema": "schema.json",
+      "delimiter": ",",
+      "headerRowCount": 1,
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002444",
+      "interactionTypeName": "parasiteOf"
+    }
+  ],
+  "resources": {
+    "https://parasites.nunn-lab.org/primates/download/": "interactions.csv"
+  }
+
+}

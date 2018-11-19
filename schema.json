@@ -1,0 +1,124 @@
+{
+	"columns": [
+    {
+      "name": "DB ID",
+      "titles": "DB ID",
+      "datatype": "string"
+    },
+    {
+      "name": "Parasite Reported Name",
+      "titles": "Parasite Reported Name",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonName",
+      "titles": "Parasite Corrected Name",
+      "datatype": "string"
+    },
+    {
+      "name": "Host Reported Name",
+      "titles": "Host Reported Name",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Host Corrected Name C&H",
+      "datatype": "string"
+    },
+    {
+      "name": "Host Corrected Name W&R05",
+      "titles": "Host Corrected Name W&R05",
+      "datatype": "string"
+    },
+    {
+      "name": "localityName",
+      "titles": "Location",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLatitude",
+      "titles": "Latitude",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLongitude",
+      "titles": "Longitude",
+      "datatype": "string"
+    },
+    {
+      "name": "Resolution",
+      "titles": "Resolution",
+      "datatype": "string"
+    },
+    {
+      "name": "Prevalence",
+      "titles": "Prevalence",
+      "datatype": "string"
+    },
+    {
+      "name": "Sample Size",
+      "titles": "Sample Size",
+      "datatype": "string"
+    },
+    {
+      "name": "Sample Basis",
+      "titles": "Sample Basis",
+      "datatype": "string"
+    },
+    {
+      "name": "Host Sex",
+      "titles": "Host Sex",
+      "datatype": "string"
+    },
+    {
+      "name": "Host Age",
+      "titles": "Host Age",
+      "datatype": "string"
+    },
+    {
+      "name": "Parasite Type",
+      "titles": "Parasite Type",
+      "datatype": "string"
+    },
+    {
+      "name": "Close",
+      "titles": "Close",
+      "datatype": "string"
+    },
+    {
+      "name": "Sexual",
+      "titles": "Sexual",
+      "datatype": "string"
+    },
+    {
+      "name": "Vertical",
+      "titles": "Vertical",
+      "datatype": "string"
+    },
+    {
+      "name": "Nonclose",
+      "titles": "Nonclose",
+      "datatype": "string"
+    },
+    {
+      "name": "Vector",
+      "titles": "Vector",
+      "datatype": "string"
+    },
+    {
+      "name": "Intermediate",
+      "titles": "Intermediate",
+      "datatype": "string"
+    },
+    {
+      "name": "Citation",
+      "titles": "Citation",
+      "datatype": "string"
+    },
+    {
+      "name": "referenceCitation",
+      "titles": "Full Reference",
+      "datatype": "string"
+    }					
+  ]
+}
