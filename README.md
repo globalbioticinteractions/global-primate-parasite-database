@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/global-primate-parasite-database.svg)](https://travis-ci.org/globalbioticinteractions/global-primate-parasite-database) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/global-primate-parasite-database)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/global-primate-parasite-database) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/global-primate-parasite-database.svg)](https://travis-ci.com/globalbioticinteractions/global-primate-parasite-database) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/global-primate-parasite-database)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/global-primate-parasite-database) 
 
 The Global Primate Parasite Database (GPPD, https://parasites.nunn-lab.org) is described and mentioned in: 
 
